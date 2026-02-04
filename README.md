@@ -1,16 +1,20 @@
-# test_test
+Flutter WebView Sample – GitHub Repository
 
-A new Flutter project.
+Repository:
+https://github.com/ManandharNitesh/Flutter-WebView-With-Angular-Iframe
 
-## Getting Started
+Overview:
+This repository contains a simplified Flutter application that demonstrates
+how a WebView is used to render an Angular application.
 
-This project is a starting point for a Flutter application.
+Requirements:
+- Flutter SDK version 3.32.0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Setup & Run:
+1. Open the project folder in a terminal
+2. Verify Flutter version:
+   flutter --version
+3. Install dependencies:
+   flutter pub get
+4. Run the application:
+   flutter run
